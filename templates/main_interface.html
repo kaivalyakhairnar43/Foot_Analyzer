@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Football Analytics Dashboard</title>
+    <style>
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welocome to FootAnalyzer!!</h1>
+    <form id="playerForm" method="POST">
+        <label for="player_selection">Select an option:</label>
+        <input type="radio" name="comparison" value="single" id="singlePlayerRadio" checked> Single Player
+        <input type="radio" name="comparison" value="compare" id="comparePlayersRadio"> Compare Players<br><br>
+
+        <div id="singlePlayerFields">
+            <label for="stat_type">Stat Type:</label>
+            <select name="stat_type" id="stat_type">
+                <option value="Keeper">Keeper</option>
+                <option value="Shooting">Shooting</option>
+                <option value="Passing">Passing</option>
+                <option value="Defense">Defense</option>
+            </select><br>
+
+            <label for="league">League:</label>
+            <select name="league" id="league">
+                <option value="La Liga">La Liga</option>
+                <option value="Premier League">Premier League</option>
+                <option value="Seria A">Seria A</option>
+                <option value="Bundesliga">Bundesliga</option>
+                <option value="Ligue 1">Ligue 1</option>
+            </select><br>
+
+            <label for="season">Season:</label>
+            <select name="season" id="season">
+                <option value="22/23">22/23</option>
+                <option value="21/22">20/21</option>
+                <option value="20/21">20/21</option>
+                <option value="19/20">19/20</option>
+                <option value="18/19">18/19</option>
+            </select><br>
+
+            <label for="team">Select Team:</label>
+            <select name="team" id="teamSelect">
+            {% for team in teams %}
+                <option value="{{ team }}">{{ team }}</option>
+            {% endfor %}
+            </select>
+            <br>
+
+            <label for="player">Select Player:</label>
+            <select name="player" id="playerSelect">
+                {% for player in players %}
+                    <option value="{{ player }}">{{ player }}</option>
+                {% endfor %}
+            </select>
+            <br>
+        </div>
+
+        <div id="comparePlayersFields" class="hidden">
+            <!-- Code for comparing players selection dropdowns -->
+        </div>
+
+        <button type="submit">Generate Radar Chart</button>
+    </form>
+
+    <script>
+        // JavaScript code for toggling between single player and compare players fields
+    </script>
+</body>
+</html>

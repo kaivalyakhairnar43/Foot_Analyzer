@@ -1,0 +1,141 @@
+Player,Nation,Pos,Squad,Age,MP,Min,90s,GA,GA90,SoTA,Saves,Save%,CS,CS%,PKatt,PKA,PKsv,PKm,PKSave%,Season
+Alisson,br BRA,GK,Liverpool,25,38,3420,38,22,0.58,96,74,77.1,21,55.3,1,0,0,1,0,18/19
+Kepa Arrizabalaga,es ESP,GK,Chelsea,23,36,3240,36,39,1.08,121,81,68.6,14,38.9,2,1,1,0,50,18/19
+Asmir Begović,ba BIH,GK,Bournemouth,31,24,2160,24,47,1.96,104,59,56.7,5,20.8,2,2,0,0,0,18/19
+Marcus Bettinelli,eng ENG,GK,Fulham,26,7,630,7,20,2.86,40,19,52.5,0,0,3,1,1,1,50,18/19
+Artur Boruc,pl POL,GK,Bournemouth,38,12,1080,12,18,1.5,56,38,73.2,4,33.3,3,3,0,0,0,18/19
+Petr Čech,cz CZE,GK,Arsenal,36,7,585,6.5,9,1.38,37,28,75.7,1,14.3,0,0,0,0,0,18/19
+Martin Dúbravka,sk SVK,GK,Newcastle Utd,29,38,3420,38,48,1.26,140,93,70,11,28.9,6,6,0,0,0,18/19
+Ederson,br BRA,GK,Manchester City,24,38,3420,38,23,0.61,81,58,76.5,20,52.6,4,4,0,0,0,18/19
+Neil Etheridge,ph PHI,GK,Cardiff City,28,38,3420,38,69,1.82,207,135,68.6,10,26.3,7,4,3,0,42.9,18/19
+Łukasz Fabiański,pl POL,GK,West Ham,33,38,3420,38,55,1.45,198,143,74.2,7,18.4,5,4,1,0,20,18/19
+Ben Foster,eng ENG,GK,Watford,35,38,3420,38,59,1.55,180,123,69.4,7,18.4,5,4,1,0,20,18/19
+David de Gea,es ESP,GK,Manchester Utd,27,38,3420,38,54,1.42,171,120,71.9,7,18.4,6,6,0,0,0,18/19
+Vicente Guaita,es ESP,GK,Crystal Palace,31,20,1755,19.5,23,1.18,85,63,74.1,7,35,1,1,0,0,0,18/19
+Angus Gunn,sct SCO,GK,Southampton,22,12,1080,12,18,1.5,50,31,64,3,25,1,0,1,0,100,18/19
+Ben Hamer,eng ENG,GK,Huddersfield,30,7,553,6.1,21,3.42,42,22,57.1,0,0,3,3,0,0,0,18/19
+Joe Hart,eng ENG,GK,Burnley,31,19,1710,19,41,2.16,116,75,65.5,4,21.1,2,1,1,0,50,18/19
+Tom Heaton,eng ENG,GK,Burnley,32,19,1710,19,27,1.42,83,59,68.7,4,21.1,1,1,0,0,0,18/19
+Wayne Hennessey,wls WAL,GK,Crystal Palace,31,18,1575,17.5,26,1.49,69,42,66.7,5,29.4,4,3,1,0,25,18/19
+Bernd Leno,de GER,GK,Arsenal,26,32,2835,31.5,42,1.33,145,104,75.9,7,22.6,7,7,0,0,0,18/19
+Hugo Lloris,fr FRA,GK,Tottenham,31,33,2970,33,33,1,130,98,76.9,12,36.4,5,3,2,0,40,18/19
+Jonas Lössl,dk DEN,GK,Huddersfield,29,31,2777,30.9,54,1.75,141,86,64.5,5,16.7,5,4,1,0,20,18/19
+Alex McCarthy,eng ENG,GK,Southampton,28,25,2250,25,44,1.76,119,78,64.7,4,16,2,2,0,0,0,18/19
+Rui Patrício,pt POR,GK,Wolves,30,37,3330,37,46,1.24,138,96,68.8,7,18.9,4,3,0,1,0,18/19
+Jordan Pickford,eng ENG,GK,Everton,24,38,3420,38,46,1.21,136,89,67.6,14,36.8,5,2,3,0,60,18/19
+Sergio Rico,es ESP,GK,Fulham,24,29,2610,29,56,1.93,165,111,68.5,5,17.2,4,4,0,0,0,18/19
+Mathew Ryan,au AUS,GK,Brighton,26,34,3060,34,55,1.62,152,96,69.1,6,17.6,8,8,0,0,0,18/19
+Kasper Schmeichel,dk DEN,GK,Leicester City,31,38,3420,38,48,1.26,138,90,68.8,10,26.3,5,5,0,0,0,18/19
+Adrián,es ESP,GK,Liverpool,32,11,875,9.7,10,1.03,27,17,63,2,22.2,0,0,0,0,0,19/20
+Alisson,br BRA,GK,Liverpool,26,29,2543,28.3,23,0.81,80,58,72.5,13,44.8,1,1,0,0,0,19/20
+Kepa Arrizabalaga,es ESP,GK,Chelsea,24,33,2970,33,47,1.42,99,54,54.5,8,24.2,2,2,0,0,0,19/20
+Willy Caballero,ar ARG,GK,Chelsea,37,5,450,5,7,1.4,16,10,56.3,1,20,0,0,0,0,0,19/20
+Martin Dúbravka,sk SVK,GK,Newcastle Utd,30,38,3420,38,58,1.53,195,139,71.3,11,28.9,2,2,0,0,0,19/20
+Ederson,br BRA,GK,Manchester City,25,35,3071,34.1,28,0.82,95,68,73.7,16,45.7,3,3,0,0,0,19/20
+Łukasz Fabiański,pl POL,GK,West Ham,34,25,2117,23.5,34,1.45,104,71,70.2,5,20,4,3,1,0,25,19/20
+Ben Foster,eng ENG,GK,Watford,36,38,3420,38,64,1.68,178,116,68.5,9,23.7,9,8,1,0,11.1,19/20
+Paulo Gazzaniga,ar ARG,GK,Tottenham,27,18,1613,17.9,26,1.45,82,56,72,2,11.8,4,3,1,0,25,19/20
+David de Gea,es ESP,GK,Manchester Utd,28,38,3420,38,36,0.95,131,96,74.8,13,34.2,3,3,0,0,0,19/20
+Vicente Guaita,es ESP,GK,Crystal Palace,32,35,3150,35,42,1.2,149,109,71.8,10,28.6,1,0,0,1,0,19/20
+Angus Gunn,sct SCO,GK,Southampton,23,10,900,10,25,2.5,55,30,58.2,2,20,2,2,0,0,0,19/20
+Tom Heaton,eng ENG,GK,Aston Villa,33,20,1794,19.9,35,1.76,102,68,68.6,4,20,3,3,0,0,0,19/20
+Dean Henderson,eng ENG,GK,Sheffield Utd,22,36,3240,36,33,0.92,128,94,75,13,36.1,3,1,1,1,50,19/20
+Tim Krul,nl NED,GK,Norwich City,31,36,3240,36,68,1.89,195,128,66.7,5,13.9,5,3,2,0,40,19/20
+Bernd Leno,de GER,GK,Arsenal,27,30,2649,29.4,39,1.33,151,111,78.1,7,23.3,7,6,1,0,14.3,19/20
+Hugo Lloris,fr FRA,GK,Tottenham,32,21,1807,20.1,21,1.05,99,78,80.8,6,28.6,3,2,1,0,33.3,19/20
+David Martin,eng ENG,GK,West Ham,33,5,436,4.8,6,1.24,21,15,71.4,2,50,0,0,0,0,0,19/20
+Emiliano Martínez,ar ARG,GK,Arsenal,26,9,771,8.6,9,1.05,42,33,81,3,37.5,1,1,0,0,0,19/20
+Alex McCarthy,eng ENG,GK,Southampton,29,28,2520,28,35,1.25,113,78,69.9,7,25,2,1,1,0,50,19/20
+Ørjan Nyland,no NOR,GK,Aston Villa,28,7,539,6,12,2,27,15,55.6,1,20,0,0,0,0,0,19/20
+Rui Patrício,pt POR,GK,Wolves,31,38,3420,38,40,1.05,129,88,69.8,13,34.2,3,1,2,0,66.7,19/20
+Jordan Pickford,eng ENG,GK,Everton,25,38,3420,38,56,1.47,147,94,63.9,9,23.7,4,3,0,1,0,19/20
+Nick Pope,eng ENG,GK,Burnley,27,38,3420,38,50,1.32,167,117,72.5,15,39.5,5,4,1,0,20,19/20
+Aaron Ramsdale,eng ENG,GK,Bournemouth,21,37,3330,37,62,1.68,187,124,69.5,5,13.5,6,5,1,0,16.7,19/20
+Pepe Reina,es ESP,GK,Aston Villa,36,12,1080,12,20,1.67,53,32,66,2,16.7,3,2,1,0,33.3,19/20
+Roberto,es ESP,GK,West Ham,33,8,687,7.6,17,2.23,51,35,68.6,0,0,1,1,0,0,0,19/20
+Mathew Ryan,au AUS,GK,Brighton,27,38,3420,38,54,1.42,168,116,69,9,23.7,2,2,0,0,0,19/20
+Kasper Schmeichel,dk DEN,GK,Leicester City,32,38,3420,38,41,1.08,135,94,75.6,13,34.2,10,8,2,0,20,19/20
+Alisson,br BRA,GK,Liverpool,27,33,2970,33,32,0.97,115,82,75.7,10,30.3,8,4,1,3,20,20/21
+Alphonse Areola,fr FRA,GK,Fulham,27,36,3240,36,48,1.33,161,114,73.9,9,25,6,6,0,0,0,20/21
+Kepa Arrizabalaga,es ESP,GK,Chelsea,25,7,585,6.5,8,1.23,23,15,69.6,2,33.3,1,1,0,0,0,20/21
+Karl Darlow,eng ENG,GK,Newcastle Utd,29,25,2250,25,43,1.72,126,84,68.3,4,16,4,3,1,0,25,20/21
+Martin Dúbravka,sk SVK,GK,Newcastle Utd,31,13,1170,13,19,1.46,62,44,71,3,23.1,1,1,0,0,0,20/21
+Ederson,br BRA,GK,Manchester City,26,36,3240,36,28,0.78,93,65,77.4,19,52.8,8,7,1,0,12.5,20/21
+Łukasz Fabiański,pl POL,GK,West Ham,35,35,3150,35,44,1.26,138,97,70.3,10,28.6,5,3,1,1,25,20/21
+Fraser Forster,eng ENG,GK,Southampton,32,8,720,8,11,1.37,31,19,71,2,25,3,2,1,0,33.3,20/21
+David de Gea,es ESP,GK,Manchester Utd,29,26,2295,25.5,32,1.25,90,59,68.9,9,34.6,4,4,0,0,0,20/21
+Vicente Guaita,es ESP,GK,Crystal Palace,33,37,3330,37,64,1.73,169,104,63.9,8,21.6,4,3,1,0,25,20/21
+Dean Henderson,eng ENG,GK,Manchester Utd,23,13,1125,12.5,12,0.96,51,39,76.5,4,33.3,0,0,0,0,0,20/21
+Sam Johnstone,eng ENG,GK,West Brom,27,37,3330,37,74,2,234,162,71.4,6,16.2,11,7,1,3,12.5,20/21
+Bernd Leno,de GER,GK,Arsenal,28,35,3131,34.8,37,1.06,117,83,69.2,11,31.4,2,1,1,0,50,20/21
+Hugo Lloris,fr FRA,GK,Tottenham,33,38,3420,38,45,1.18,155,113,77.4,12,31.6,10,10,0,0,0,20/21
+Emiliano Martínez,ar ARG,GK,Aston Villa,27,38,3420,38,46,1.21,186,133,78,15,39.5,6,5,1,0,16.7,20/21
+Alex McCarthy,eng ENG,GK,Southampton,30,30,2700,30,57,1.9,147,91,65.3,7,23.3,6,6,0,0,0,20/21
+Edouard Mendy,sn SEN,GK,Chelsea,28,31,2745,30.5,25,0.82,81,56,71.6,16,51.6,3,2,1,0,33.3,20/21
+Illan Meslier,fr FRA,GK,Leeds United,20,35,3150,35,52,1.49,188,137,76.6,11,31.4,9,8,1,0,11.1,20/21
+Robin Olsen,se SWE,GK,Everton,30,7,630,7,9,1.29,30,21,73.3,2,28.6,1,1,0,0,0,20/21
+Rui Patrício,pt POR,GK,Wolves,32,37,3329,37,51,1.38,148,99,70.3,10,27,8,7,1,0,12.5,20/21
+Jordan Pickford,eng ENG,GK,Everton,26,31,2742,30.5,39,1.28,128,90,71.1,10,32.3,3,2,0,1,0,20/21
+Nick Pope,eng ENG,GK,Burnley,28,32,2880,32,37,1.16,149,113,77.2,11,34.4,3,3,0,0,0,20/21
+Aaron Ramsdale,eng ENG,GK,Sheffield Utd,22,38,3420,38,63,1.66,206,145,70.9,5,13.2,4,3,0,1,0,20/21
+Mathew Ryan,au AUS,GK,Brighton,28,11,990,11,19,1.73,34,16,55.9,2,18.2,4,4,0,0,0,20/21
+Robert Sánchez,es ESP,GK,Brighton,22,27,2430,27,27,1,91,65,72.5,10,37,3,2,0,1,0,20/21
+Kasper Schmeichel,dk DEN,GK,Leicester City,33,38,3420,38,50,1.32,136,88,66.2,11,28.9,4,4,0,0,0,20/21
+Alisson,br BRA,GK,Liverpool,28,36,3240,36,24,0.67,99,76,75.8,20,55.6,0,0,0,0,0,21/22
+Daniel Bachmann,at AUT,GK,Watford,27,12,1080,12,28,2.33,72,46,65.3,0,0,3,3,0,0,0,21/22
+Jack Butland,eng ENG,GK,Crystal Palace,28,9,765,8.5,13,1.53,28,16,53.6,1,12.5,1,0,1,0,100,21/22
+Karl Darlow,eng ENG,GK,Newcastle Utd,30,8,720,8,15,1.87,37,23,64.9,0,0,2,2,0,0,0,21/22
+Martin Dúbravka,sk SVK,GK,Newcastle Utd,32,26,2340,26,35,1.35,106,72,67.9,8,30.8,1,1,0,0,0,21/22
+Ederson,br BRA,GK,Manchester City,27,37,3330,37,26,0.7,83,57,69.9,20,54.1,1,1,0,0,0,21/22
+Łukasz Fabiański,pl POL,GK,West Ham,36,37,3330,37,50,1.35,162,111,70.4,8,21.6,6,2,3,1,60,21/22
+Álvaro Fernández,es ESP,GK,Brentford,23,12,1080,12,24,2,69,47,66.7,1,8.3,1,1,0,0,0,21/22
+Fraser Forster,eng ENG,GK,Southampton,33,19,1710,19,35,1.84,101,68,67.3,3,15.8,2,2,0,0,0,21/22
+Ben Foster,eng ENG,GK,Watford,38,26,2340,26,49,1.88,116,67,60.3,4,15.4,4,3,1,0,25,21/22
+David de Gea,es ESP,GK,Manchester Utd,30,38,3420,38,57,1.5,180,124,70,8,21.1,5,3,2,0,40,21/22
+Vicente Guaita,es ESP,GK,Crystal Palace,34,30,2655,29.5,33,1.12,116,83,74.1,11,36.7,3,3,0,0,0,21/22
+Angus Gunn,sct SCO,GK,Norwich City,25,9,810,9,22,2.44,57,34,64.9,1,11.1,4,2,1,1,33.3,21/22
+Tim Krul,nl NED,GK,Norwich City,33,29,2610,29,62,2.14,165,105,66.7,5,17.2,8,7,0,1,0,21/22
+Hugo Lloris,fr FRA,GK,Tottenham,34,38,3420,38,40,1.05,137,98,72.3,16,42.1,2,2,0,0,0,21/22
+Emiliano Martínez,ar ARG,GK,Aston Villa,28,36,3240,36,48,1.33,140,93,68.6,11,30.6,6,4,1,1,20,21/22
+Alex McCarthy,eng ENG,GK,Southampton,31,17,1530,17,27,1.59,71,44,62,5,29.4,0,0,0,0,0,21/22
+Edouard Mendy,sn SEN,GK,Chelsea,29,34,3060,34,31,0.91,102,72,75.5,14,41.2,6,6,0,0,0,21/22
+Illan Meslier,fr FRA,GK,Leeds United,21,38,3384,37.6,79,2.1,220,142,66.4,5,13.2,5,5,0,0,0,21/22
+Jordan Pickford,eng ENG,GK,Everton,27,35,3150,35,58,1.66,170,116,66.5,7,20,1,1,0,0,0,21/22
+Nick Pope,eng ENG,GK,Burnley,29,36,3240,36,47,1.31,165,119,74.5,9,25,5,5,0,0,0,21/22
+Aaron Ramsdale,eng ENG,GK,Arsenal,23,34,3060,34,39,1.15,128,90,73.4,12,35.3,6,5,0,1,0,21/22
+David Raya,es ESP,GK,Brentford,25,24,2160,24,27,1.13,103,76,77.7,8,33.3,4,4,0,0,0,21/22
+José Sá,pt POR,GK,Wolves,28,37,3285,36.5,40,1.1,160,121,80.6,11,29.7,10,9,0,1,0,21/22
+Robert Sánchez,es ESP,GK,Brighton,23,37,3329,37,42,1.14,141,99,72.3,11,29.7,4,3,0,1,0,21/22
+Kasper Schmeichel,dk DEN,GK,Leicester City,34,37,3330,37,58,1.57,187,128,72.7,7,18.9,9,7,2,0,22.2,21/22
+Alisson,br BRA,GK,Liverpool,29,37,3330,37,43,1.16,147,105,72.1,14,37.8,4,2,1,1,33.3,22/23
+Alphonse Areola,fr FRA,GK,West Ham,29,5,309,3.4,7,2.04,16,9,68.8,1,50,2,2,0,0,0,22/23
+Kepa Arrizabalaga,es ESP,GK,Chelsea,27,29,2565,28.5,33,1.16,120,90,73.3,9,31,1,1,0,0,0,22/23
+Gavin Bazunu,ie IRL,GK,Southampton,20,32,2880,32,56,1.75,120,67,54.2,4,12.5,2,1,1,0,50,22/23
+Ederson,br BRA,GK,Manchester City,28,35,3150,35,32,0.91,77,46,62.3,11,31.4,3,3,0,0,0,22/23
+Łukasz Fabiański,pl POL,GK,West Ham,37,36,3111,34.6,48,1.39,154,106,70.1,8,22.2,4,2,1,1,33.3,22/23
+Fraser Forster,eng ENG,GK,Tottenham,34,14,1215,13.5,24,1.78,55,30,60,3,23.1,3,2,1,0,33.3,22/23
+David de Gea,es ESP,GK,Manchester Utd,31,38,3420,38,43,1.13,142,99,71.1,17,44.7,3,2,1,0,33.3,22/23
+Vicente Guaita,es ESP,GK,Crystal Palace,35,27,2430,27,34,1.26,116,84,72.4,6,22.2,2,2,0,0,0,22/23
+Dean Henderson,eng ENG,GK,Nott'ham Forest,25,18,1620,18,31,1.72,85,52,65.9,6,33.3,5,2,2,1,50,22/23
+Daniel Iversen,dk DEN,GK,Leicester City,25,12,1080,12,22,1.83,59,38,66.1,1,8.3,2,2,0,0,0,22/23
+Sam Johnstone,eng ENG,GK,Crystal Palace,29,9,810,9,10,1.11,34,25,76.5,3,33.3,2,2,0,0,0,22/23
+Bernd Leno,de GER,GK,Fulham,30,36,3240,36,51,1.42,192,142,77.1,8,22.2,8,7,1,0,12.5,22/23
+Hugo Lloris,fr FRA,GK,Tottenham,35,25,2205,24.5,39,1.59,117,79,67.5,7,28,1,1,0,0,0,22/23
+Emiliano Martínez,ar ARG,GK,Aston Villa,29,36,3139,34.9,38,1.09,132,97,74.2,11,30.6,5,4,1,0,20,22/23
+Alex McCarthy,eng ENG,GK,Southampton,32,6,540,6,17,2.83,30,14,46.7,0,0,1,1,0,0,0,22/23
+Edouard Mendy,sn SEN,GK,Chelsea,30,10,855,9.5,14,1.47,39,25,64.1,1,11.1,0,0,0,0,0,22/23
+Illan Meslier,fr FRA,GK,Leeds United,22,34,3060,34,67,1.97,158,92,59.5,5,14.7,3,3,0,0,0,22/23
+Keylor Navas,cr CRC,GK,Nott'ham Forest,35,17,1529,17,32,1.88,83,51,66.3,1,5.9,4,4,0,0,0,22/23
+Neto,br BRA,GK,Bournemouth,33,27,2385,26.5,39,1.47,138,100,74.6,6,22.2,5,4,0,1,0,22/23
+Jordan Pickford,eng ENG,GK,Everton,28,37,3330,37,57,1.54,181,123,71.3,8,21.6,6,5,1,0,16.7,22/23
+Nick Pope,eng ENG,GK,Newcastle Utd,30,37,3261,36.2,32,0.88,118,85,74.6,14,37.8,5,2,2,1,50,22/23
+Aaron Ramsdale,eng ENG,GK,Arsenal,24,38,3420,38,43,1.13,136,94,70.6,14,36.8,5,3,0,2,0,22/23
+David Raya,es ESP,GK,Brentford,26,38,3420,38,46,1.21,197,154,77.7,12,31.6,2,2,0,0,0,22/23
+José Sá,pt POR,GK,Wolves,29,36,3240,36,55,1.53,161,105,67.1,11,30.6,4,2,2,0,50,22/23
+Robert Sánchez,es ESP,GK,Brighton,24,23,2070,23,30,1.3,74,46,66.2,6,26.1,6,5,1,0,16.7,22/23
+Jason Steele,eng ENG,GK,Brighton,31,15,1350,15,23,1.53,57,36,61.4,6,40,2,1,1,0,50,22/23
+Mark Travers,ie IRL,GK,Bournemouth,23,12,1035,11.5,32,2.78,66,36,54.5,2,18.2,2,2,0,0,0,22/23
+Danny Ward,wls WAL,GK,Leicester City,29,26,2340,26,46,1.77,119,75,63,6,23.1,3,2,1,0,33.3,22/23
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,min,3.4,6,0.58,16,9,46.7,0,0,0,0,0,0,0,
+,,,,,,max,38,79,3.42,234,162,81,21,55.6,11,10,3,3,100,

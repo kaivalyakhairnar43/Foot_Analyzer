@@ -1,0 +1,9 @@
+dash
+pandas
+plotly
+soccerplots
+matplotlib
+# ------------------These libraries are included already if not just pip install it-----------------------------------
+# os
+# io
+# base64
